@@ -111,3 +111,4 @@ python main.py
 - Khalil, H. K. — *Nonlinear Systems*, Prentice Hall, 2002
 - Anderson & Moore — *Optimal Control: Linear Quadratic Methods*, Dover, 2007
 - https://github.com/Drlecteur19/inverted-pendulum-lqr-contro
+- https://erc-bpgc.github.io/handbook/automation/ControlTheory/LQR/
