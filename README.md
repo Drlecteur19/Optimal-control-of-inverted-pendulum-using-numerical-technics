@@ -110,4 +110,4 @@ python main.py
 - Lewis, F. L., Vrabie, D., & Syrmos, V. L. — *Optimal Control*, Wiley, 2012
 - Khalil, H. K. — *Nonlinear Systems*, Prentice Hall, 2002
 - Anderson & Moore — *Optimal Control: Linear Quadratic Methods*, Dover, 2007
-
+- https://github.com/Drlecteur19/inverted-pendulum-lqr-contro
